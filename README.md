@@ -1,2 +1,2 @@
 # demo-startup
-demo for github
+demo for github describtion
